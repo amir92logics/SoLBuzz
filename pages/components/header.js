@@ -28,8 +28,8 @@ console.log('')
   
   return (
     <header className=" bg-slate-800 flex ">
-      <div className="bg-slate-700 w-[5rem] h-[165vh] head ">
-        <div className="px-7">
+      <div className="bg-slate-700 w-[5rem] h-[165vh] head pt-2">
+        <div className="px-7 ">
           <img src="/images/here.jpg" className="w-[40px] " alt="yut" />
         </div>
         <div className="flex flex-col   w-[5rem] h-[200px] justify-between  pt-4 ">
