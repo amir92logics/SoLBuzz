@@ -59,7 +59,7 @@ console.log('')
           <form className=" mb-9 -mt-11">
               <input
                 type="Search"
-                className="rounded-md py-2 px-2 text-sm text-[12px] w-[300px] -ml-4 bg-slate-700"
+                className="rounded-md mt-12 py-2 px-2 text-sm text-[12px] w-[300px] -ml-4 bg-slate-700"
                 placeholder="Search"
               />
             </form>
